@@ -44,22 +44,22 @@ Skematik alat menunjukkan hubungan antar komponen hardware yang digunakan pada s
 
 Model MobileNetV2 digunakan untuk mengklasifikasikan daun tomat ke dalam 10 kelas, yaitu:
 
-Bacterial Spot
-Early Blight
-Late Blight
-Leaf Mold
-Septoria Leaf Spot
-Spider Mites (Two-spotted)
-Target Spot
-Yellow Leaf Curl Virus
-Mosaic Virus
-Healthy
+- Bacterial Spot
+- Early Blight
+- Late Blight
+- Leaf Mold
+- Septoria Leaf Spot
+- Spider Mites (Two-spotted)
+- Target Spot
+- Yellow Leaf Curl Virus
+- Mosaic Virus
+- Healthy
 
 ## Hasil Pengujian
 
 Model diuji menggunakan 2.724 citra dan berhasil mengklasifikasikan 2.493 citra dengan benar.
 
-Accuracy: 91,52%
-Macro Precision: 90,43%
-Macro Recall: 90,23%
-Macro F1-Score: 89,51%
+- Accuracy: 91,52%
+- Macro Precision: 90,43%
+- Macro Recall: 90,23%
+- Macro F1-Score: 89,51%
