@@ -31,6 +31,7 @@ Sistem mengintegrasikan ESP32 sebagai perangkat monitoring, ESP32-CAM sebagai pe
 ## Arsitektur Sistem
 
 Secara umum, sistem TomaTrack terdiri dari beberapa bagian:
+
 <img width="354" height="407" alt="Screenshot 2026-09-07 042706" src="https://github.com/user-attachments/assets/dbfc09c0-facf-4e99-bcd0-5f1815233514" />
 
 ## Skematik Alat
