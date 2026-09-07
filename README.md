@@ -36,6 +36,7 @@ Secara umum, sistem TomaTrack terdiri dari beberapa bagian:
 ## Skematik Alat
 
 Skematik alat menunjukkan hubungan antar komponen hardware yang digunakan pada sistem TomaTrack.
+
 <img width="317" height="244" alt="Screenshot 2026-09-06 214219" src="https://github.com/user-attachments/assets/5a1827e7-3820-436a-a0d0-2f04d6a6e226" />
 
 
